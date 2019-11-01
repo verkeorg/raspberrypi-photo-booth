@@ -28,7 +28,7 @@ _Valokuva-automaatin vieressä läppärissä pyöri dia-show, jonne kaikki otetu
 
 <td>Tuotteen nimi</td>
 
-<td>Hintaesimerkki ([https://vadelmapii.com/](https://vadelmapii.com/))</td>
+<td>Hintaesimerkki https://vadelmapii.com/</td>
 
 </tr>
 
@@ -221,7 +221,7 @@ Seuraa Maker-lehden ohjeita 1-9 (http://makezine.com/projects/raspberry-pi-photo
 
 <td>
 
-*   1.  Configure the Pi’s operating system
+*   Configure the Pi’s operating system
 
 </td>
 
@@ -233,7 +233,7 @@ Seuraa Maker-lehden ohjeita 1-9 (http://makezine.com/projects/raspberry-pi-photo
 
 <td>
 
-*   1.  Install the requiredplatforms on the Pi
+*   Install the requiredplatforms on the Pi
 
 </td>
 
@@ -245,7 +245,7 @@ Seuraa Maker-lehden ohjeita 1-9 (http://makezine.com/projects/raspberry-pi-photo
 
 <td>
 
-*   1.  Download the TouchSelfie scripts
+*   Download the TouchSelfie scripts
 
 </td>
 
@@ -257,7 +257,7 @@ Seuraa Maker-lehden ohjeita 1-9 (http://makezine.com/projects/raspberry-pi-photo
 
 <td>
 
-*   1.  Set up your Google Photos album
+*   Set up your Google Photos album
 
 </td>
 
@@ -269,7 +269,7 @@ Seuraa Maker-lehden ohjeita 1-9 (http://makezine.com/projects/raspberry-pi-photo
 
 <td>
 
-*   1.  Get an app-specific password
+*   Get an app-specific password
 
 </td>
 
@@ -281,7 +281,7 @@ Seuraa Maker-lehden ohjeita 1-9 (http://makezine.com/projects/raspberry-pi-photo
 
 <td>
 
-*   1.  Create API keys with Google Developer
+*   Create API keys with Google Developer
 
 </td>
 
@@ -293,7 +293,7 @@ Seuraa Maker-lehden ohjeita 1-9 (http://makezine.com/projects/raspberry-pi-photo
 
 <td>
 
-*   1.  Connect TouchSelfie to Google Photos
+*   Connect TouchSelfie to Google Photos
 
 </td>
 
@@ -305,7 +305,7 @@ Seuraa Maker-lehden ohjeita 1-9 (http://makezine.com/projects/raspberry-pi-photo
 
 <td>
 
-*   1.  Customize messages and logos
+*   Customize messages and logos
 
 </td>
 
@@ -317,7 +317,7 @@ Seuraa Maker-lehden ohjeita 1-9 (http://makezine.com/projects/raspberry-pi-photo
 
 <td>
 
-*   1.  Enable Fullscreen and Touchscreen Keyboard
+*   Enable Fullscreen and Touchscreen Keyboard
 
 </td>
 
