@@ -1,1 +1,1 @@
-# rasperrypi-photobooth
+# Rasperry PI - photo booth
