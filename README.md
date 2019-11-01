@@ -1,3 +1,5 @@
+# Raspberry Pi -valokuva-automaatti
+
 Rakensimme Nuori2017 -tapahtumaan Raspberry Pi -valokuva-automaatin. Pahvilaatikkoon oli asennettu Raspberry Pi -keskusyksikkö, kamera sekä kosketusnäyttö. Ohikulkijan koskettaessa ruutua, alkoi kolmen sekunnin laskenta kuvan laukaisuun. Raspberryn otettua valokuvan, se tallentui langatonta verkkoa pitkin Verken omaan Google Photos -albumiin ja kuvattu kohde pystyi halutessaan kirjoittamaan kosketusnäytölle sähköpostiosoitteensa, johon valokuva lähti automaattisesti "postikorttina". Idea automaattiin tuli Maker-lehden numeron 52 (syyskuu/2016) artikkelista "_Raspberry Pi Wi-Fi Party Photo Booth_" ([http://makezine.com/projects/raspberry-pi-photo-booth/](http://makezine.com/projects/raspberry-pi-photo-booth/)). Oheisen linkin takaa löytyy alkuperäinen ohje kaikkine tarvittavine koodeineen, joten ohjelmointitaitoja tämä projekti ei edellyttänyt. Joitain muokkauksia alkuperäiseen koodiin teimme, jotta saimme automaatin toimimaan omaan tarkoitukseemme sopivalla tavalla.
 
 ![](https://www.verke.org/wp-content/uploads/2017/05/rpp-01-520x618.jpg) 
